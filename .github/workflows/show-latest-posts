@@ -12,7 +12,7 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          file: 'README.md'
+          file: 'profile/README.md'
           format: '- ${monthlong} ${day} — [${title}](${url})'
           timezone: 'Europe/Amsterdam'
           url: |
