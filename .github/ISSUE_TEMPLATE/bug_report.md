@@ -21,4 +21,8 @@ What happened.
 
 ### Environment
 
-Paste the information here as shown by `hugo version && npm --version`
+Paste the information here as shown by:
+
+```bash
+hugo version && npm --version
+```
