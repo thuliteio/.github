@@ -1,7 +1,6 @@
 ---
 name: "\U0001F41B Bug report"
 about: Report an issue or possible bug
-
 ---
 
 ## Description
@@ -22,4 +21,4 @@ What happened.
 
 ### Environment
 
-Paste the information here as shown by `npm run info`
+Paste the information here as shown by `hugo version && npm --version`

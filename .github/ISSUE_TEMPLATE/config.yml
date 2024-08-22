@@ -1,7 +1,7 @@
 contact_links:
   - name: 📘 Documentation
-    url: https://github.com/gethyas/docs
+    url: https://github.com/thuliteio/docs
     about: File an issue or make an improvement to the docs website.
   - name: 💁 Support
-    url: https://github.com/gethyas/hyas/discussions
-    about: 'Get help on Hyas Discussions'
+    url: https://github.com/orgs/thuliteio/discussions
+    about: 'Get help on  Discussions'
